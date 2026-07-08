@@ -23,5 +23,14 @@ let booleanIsLoggedIn=Boolean(isLoggedIn)
 
 let someNumber=null
 let stringNumber=String(someNumber)
-console.log(stringNumber)
-console.log(typeof stringNumber)
+// console.log(stringNumber)
+// console.log(typeof stringNumber)
+
+// ******************************************Operations******************************************
+
+// console.log("1"+2+2)
+// console.log(1+2+"2")
+// console.log(true)
+console.log(+true)
+console.log(+"")
+
